@@ -22,6 +22,10 @@
 
 [index.html](axis/index.html)<br>
 
+## Exemplo line - Usando eixos
+
+[index.html](linechart/index.html)<br>
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/scientific-visualization/tutorial-d3/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
