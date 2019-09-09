@@ -10,6 +10,10 @@
 
 [index.html](barchart3/index.html)<br>
 
+## Exemplo barchart4 - Barchart Vertical + escala
+
+[index.html](barchart4/index.html)<br>
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/scientific-visualization/tutorial-d3/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
