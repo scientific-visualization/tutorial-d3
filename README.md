@@ -1,6 +1,11 @@
-## Exemplo barchart1
+## Exemplo barchart1 - Barchart Vertical
 
 [index.html](barchart1/index.html)<br>
+
+## Exemplo barchart2 - Barchart Horizontal + escala
+
+[index.html](barchart2/index.html)<br>
+
 
 ## Welcome to GitHub Pages
 
