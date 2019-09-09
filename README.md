@@ -14,6 +14,10 @@
 
 [index.html](barchart4/index.html)<br>
 
+## Exemplo barchart5 - Barchart Vertical + labels
+
+[index.html](barchart5/index.html)<br>
+
 ## Exemplo axis - Usando eixos
 
 [index.html](axis/index.html)<br>
