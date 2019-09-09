@@ -6,6 +6,9 @@
 
 [index.html](barchart2/index.html)<br>
 
+## Exemplo barchart3 - Barchart Horizontal simples
+
+[index.html](barchart3/index.html)<br>
 
 ## Welcome to GitHub Pages
 
